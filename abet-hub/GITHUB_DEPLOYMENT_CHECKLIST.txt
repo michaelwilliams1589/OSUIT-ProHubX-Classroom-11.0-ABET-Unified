@@ -1,0 +1,16 @@
+GITHUB DEPLOYMENT CHECKLIST
+
+[ ] Create a public GitHub repository
+[ ] Upload index.html
+[ ] Upload manifest.webmanifest
+[ ] Upload service-worker.js
+[ ] Upload the icons folder
+[ ] Open Settings > Pages
+[ ] Select Deploy from a branch
+[ ] Choose main and root
+[ ] Open the published Pages address
+[ ] Test on desktop
+[ ] Test on tablet
+[ ] Test on phone
+[ ] Install to phone home screen
+[ ] Export a backup before entering production data
