@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-10T15:15:02.235636+00:00",
-  "lastAttemptAt": "2026-08-10T15:15:02.235636+00:00",
+  "generatedAt": "2026-08-10T16:09:03.416434+00:00",
+  "lastAttemptAt": "2026-08-10T16:09:03.416434+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -304,7 +304,7 @@
           "detailedForecast": "Mostly clear, with a low around 75. South wind around 5 mph."
         }
       ],
-      "updated": "2026-08-10T15:15:02.235636+00:00",
+      "updated": "2026-08-10T16:09:03.416434+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -607,7 +607,7 @@
           "detailedForecast": "Partly cloudy, with a low around 79. South wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-10T15:15:02.235636+00:00",
+      "updated": "2026-08-10T16:09:03.416434+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -910,7 +910,7 @@
           "detailedForecast": "Mostly clear, with a low around 77. South wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-10T15:15:02.235636+00:00",
+      "updated": "2026-08-10T16:09:03.416434+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -949,7 +949,7 @@
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-10T10:00:00-05:00",
+          "startTime": "2026-08-10T07:00:00-05:00",
           "endTime": "2026-08-10T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 103,
@@ -959,11 +959,11 @@
             "unitCode": "wmoUnit:percent",
             "value": 0
           },
-          "windSpeed": "13 mph",
+          "windSpeed": "9 to 13 mph",
           "windDirection": "SSW",
           "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
           "shortForecast": "Sunny",
-          "detailedForecast": "Sunny, with a high near 103. Heat index values as high as 108. South southwest wind around 13 mph, with gusts as high as 20 mph."
+          "detailedForecast": "Sunny, with a high near 103. Heat index values as high as 108. South southwest wind 9 to 13 mph, with gusts as high as 20 mph."
         },
         {
           "number": 2,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Mostly clear, with a low around 76."
         }
       ],
-      "updated": "2026-08-10T15:15:02.235636+00:00",
+      "updated": "2026-08-10T16:09:03.416434+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,10 +1224,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-10T09:00:00-05:00",
-        "endTime": "2026-08-10T10:00:00-05:00",
+        "startTime": "2026-08-10T11:00:00-05:00",
+        "endTime": "2026-08-10T12:00:00-05:00",
         "isDaytime": true,
-        "temperature": 82,
+        "temperature": 90,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -1240,7 +1240,7 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 67
+          "value": 52
         },
         "windSpeed": "12 mph",
         "windDirection": "SSW",
@@ -1252,7 +1252,7 @@
         {
           "number": 1,
           "name": "Today",
-          "startTime": "2026-08-10T10:00:00-05:00",
+          "startTime": "2026-08-10T07:00:00-05:00",
           "endTime": "2026-08-10T18:00:00-05:00",
           "isDaytime": true,
           "temperature": 101,
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Mostly clear, with a low around 79."
         }
       ],
-      "updated": "2026-08-10T15:15:02.235636+00:00",
+      "updated": "2026-08-10T16:09:03.416434+00:00",
       "stale": false
     }
   }
