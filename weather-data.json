@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-16T03:11:23.014105+00:00",
-  "lastAttemptAt": "2026-08-16T03:11:23.014105+00:00",
+  "generatedAt": "2026-08-16T03:57:45.295286+00:00",
+  "lastAttemptAt": "2026-08-16T03:57:45.295286+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -40,7 +40,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-08-15T20:00:00-05:00",
+          "startTime": "2026-08-15T22:00:00-05:00",
           "endTime": "2026-08-16T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 78,
@@ -304,7 +304,7 @@
           "detailedForecast": "Sunny, with a high near 99. East wind 0 to 5 mph."
         }
       ],
-      "updated": "2026-08-16T03:11:23.014105+00:00",
+      "updated": "2026-08-16T03:57:45.295286+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -343,7 +343,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-08-15T20:00:00-05:00",
+          "startTime": "2026-08-15T22:00:00-05:00",
           "endTime": "2026-08-16T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 81,
@@ -357,7 +357,7 @@
           "windDirection": "S",
           "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 81. Heat index values as high as 103. South wind 5 to 10 mph."
+          "detailedForecast": "Mostly clear, with a low around 81. South wind 5 to 10 mph."
         },
         {
           "number": 2,
@@ -607,7 +607,7 @@
           "detailedForecast": "A slight chance of rain showers before 7am. Sunny, with a high near 98. Northeast wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-16T03:11:23.014105+00:00",
+      "updated": "2026-08-16T03:57:45.295286+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -646,7 +646,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-08-15T20:00:00-05:00",
+          "startTime": "2026-08-15T22:00:00-05:00",
           "endTime": "2026-08-16T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 79,
@@ -660,7 +660,7 @@
           "windDirection": "S",
           "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 79. Heat index values as high as 103. South wind 5 to 10 mph."
+          "detailedForecast": "Mostly clear, with a low around 79. South wind 5 to 10 mph."
         },
         {
           "number": 2,
@@ -910,7 +910,7 @@
           "detailedForecast": "Sunny, with a high near 99. East wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-16T03:11:23.014105+00:00",
+      "updated": "2026-08-16T03:57:45.295286+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -949,7 +949,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-08-15T20:00:00-05:00",
+          "startTime": "2026-08-15T22:00:00-05:00",
           "endTime": "2026-08-16T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 79,
@@ -959,11 +959,11 @@
             "unitCode": "wmoUnit:percent",
             "value": 1
           },
-          "windSpeed": "9 mph",
+          "windSpeed": "8 mph",
           "windDirection": "SSW",
           "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
           "shortForecast": "Mostly Clear",
-          "detailedForecast": "Mostly clear, with a low around 79. Heat index values as high as 103. South southwest wind around 9 mph."
+          "detailedForecast": "Mostly clear, with a low around 79. South southwest wind around 8 mph."
         },
         {
           "number": 2,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "A slight chance of rain showers before 7am. Mostly sunny, with a high near 100."
         }
       ],
-      "updated": "2026-08-16T03:11:23.014105+00:00",
+      "updated": "2026-08-16T03:57:45.295286+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1252,7 +1252,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-08-15T20:00:00-05:00",
+          "startTime": "2026-08-15T22:00:00-05:00",
           "endTime": "2026-08-16T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 81,
@@ -1266,7 +1266,7 @@
           "windDirection": "SSW",
           "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
           "shortForecast": "Clear",
-          "detailedForecast": "Clear, with a low around 81. Heat index values as high as 104. South southwest wind around 10 mph, with gusts as high as 20 mph."
+          "detailedForecast": "Clear, with a low around 81. South southwest wind around 10 mph, with gusts as high as 20 mph."
         },
         {
           "number": 2,
@@ -1516,7 +1516,7 @@
           "detailedForecast": "A slight chance of rain showers before 7am. Sunny, with a high near 99."
         }
       ],
-      "updated": "2026-08-16T03:11:23.014105+00:00",
+      "updated": "2026-08-16T03:57:45.295286+00:00",
       "stale": false
     }
   }
