@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-16T23:32:55.753725+00:00",
-  "lastAttemptAt": "2026-08-16T23:32:55.753725+00:00",
+  "generatedAt": "2026-08-17T01:53:28.670540+00:00",
+  "lastAttemptAt": "2026-08-17T01:53:28.670540+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -12,35 +12,35 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-16T18:00:00-05:00",
-        "endTime": "2026-08-16T19:00:00-05:00",
+        "startTime": "2026-08-16T20:00:00-05:00",
+        "endTime": "2026-08-16T21:00:00-05:00",
         "isDaytime": false,
-        "temperature": 103,
+        "temperature": 94,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 16
+          "value": 25
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 19.444444444444443
+          "value": 20
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 32
+          "value": 43
         },
         "windSpeed": "5 mph",
         "windDirection": "SW",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
-        "shortForecast": "Slight Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30?size=small",
+        "shortForecast": "Chance Showers And Thunderstorms",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-08-16T18:00:00-05:00",
+          "startTime": "2026-08-16T20:00:00-05:00",
           "endTime": "2026-08-17T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 74,
@@ -51,10 +51,10 @@
             "value": 25
           },
           "windSpeed": "0 to 5 mph",
-          "windDirection": "NW",
+          "windDirection": "N",
           "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/tsra_hi,20?size=medium",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms before 1am. Partly cloudy, with a low around 74. Heat index values as high as 109. Northwest wind 0 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A chance of showers and thunderstorms before 1am. Partly cloudy, with a low around 74. North wind 0 to 5 mph. Chance of precipitation is 30%."
         },
         {
           "number": 2,
@@ -304,7 +304,7 @@
           "detailedForecast": "Sunny, with a high near 100. Southeast wind 0 to 5 mph."
         }
       ],
-      "updated": "2026-08-16T23:32:55.753725+00:00",
+      "updated": "2026-08-17T01:53:28.670540+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -315,26 +315,26 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-16T18:00:00-05:00",
-        "endTime": "2026-08-16T19:00:00-05:00",
+        "startTime": "2026-08-16T20:00:00-05:00",
+        "endTime": "2026-08-16T21:00:00-05:00",
         "isDaytime": false,
-        "temperature": 102,
+        "temperature": 98,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 17
+          "value": 23
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 20
+          "value": 20.555555555555557
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 34
+          "value": 39
         },
         "windSpeed": "5 mph",
-        "windDirection": "W",
+        "windDirection": "NW",
         "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
         "shortForecast": "Slight Chance Showers And Thunderstorms",
         "detailedForecast": ""
@@ -343,7 +343,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-08-16T18:00:00-05:00",
+          "startTime": "2026-08-16T20:00:00-05:00",
           "endTime": "2026-08-17T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 77,
@@ -357,7 +357,7 @@
           "windDirection": "N",
           "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=medium",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms. Partly cloudy, with a low around 77. Heat index values as high as 109. North wind around 5 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of showers and thunderstorms. Partly cloudy, with a low around 77. Heat index values as high as 104. North wind around 5 mph. Chance of precipitation is 20%."
         },
         {
           "number": 2,
@@ -607,7 +607,7 @@
           "detailedForecast": "Sunny, with a high near 99. Southeast wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-16T23:32:55.753725+00:00",
+      "updated": "2026-08-17T01:53:28.670540+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -618,35 +618,35 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-16T18:00:00-05:00",
-        "endTime": "2026-08-16T19:00:00-05:00",
+        "startTime": "2026-08-16T20:00:00-05:00",
+        "endTime": "2026-08-16T21:00:00-05:00",
         "isDaytime": false,
-        "temperature": 102,
+        "temperature": 97,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 17
+          "value": 25
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 20.555555555555557
+          "value": 21.11111111111111
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 35
+          "value": 42
         },
         "windSpeed": "5 mph",
         "windDirection": "W",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
-        "shortForecast": "Slight Chance Showers And Thunderstorms",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30?size=small",
+        "shortForecast": "Chance Showers And Thunderstorms",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-08-16T18:00:00-05:00",
+          "startTime": "2026-08-16T20:00:00-05:00",
           "endTime": "2026-08-17T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 76,
@@ -660,7 +660,7 @@
           "windDirection": "N",
           "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/tsra_hi,20?size=medium",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A chance of showers and thunderstorms. Partly cloudy, with a low around 76. Heat index values as high as 109. North wind around 5 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of showers and thunderstorms. Partly cloudy, with a low around 76. Heat index values as high as 104. North wind around 5 mph. Chance of precipitation is 30%."
         },
         {
           "number": 2,
@@ -910,7 +910,7 @@
           "detailedForecast": "Sunny, with a high near 100. Southeast wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-16T23:32:55.753725+00:00",
+      "updated": "2026-08-17T01:53:28.670540+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -921,35 +921,35 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-16T18:00:00-05:00",
-        "endTime": "2026-08-16T19:00:00-05:00",
+        "startTime": "2026-08-16T20:00:00-05:00",
+        "endTime": "2026-08-16T21:00:00-05:00",
         "isDaytime": false,
-        "temperature": 103,
+        "temperature": 95,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 16
+          "value": 25
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 18.88888888888889
+          "value": 20.555555555555557
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 30
+          "value": 43
         },
-        "windSpeed": "7 mph",
-        "windDirection": "NW",
-        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
-        "shortForecast": "Slight Chance Showers And Thunderstorms",
+        "windSpeed": "5 mph",
+        "windDirection": "NNW",
+        "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30?size=small",
+        "shortForecast": "Chance Showers And Thunderstorms",
         "detailedForecast": ""
       },
       "periods": [
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-08-16T18:00:00-05:00",
+          "startTime": "2026-08-16T20:00:00-05:00",
           "endTime": "2026-08-17T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 74,
@@ -959,11 +959,11 @@
             "unitCode": "wmoUnit:percent",
             "value": 26
           },
-          "windSpeed": "3 to 7 mph",
-          "windDirection": "N",
+          "windSpeed": "5 mph",
+          "windDirection": "NNE",
           "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30?size=medium",
           "shortForecast": "Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms before 7pm, then a chance of showers and thunderstorms between 7pm and 10pm, then a chance of showers and thunderstorms. Mostly clear, with a low around 74. Heat index values as high as 108. North wind 3 to 7 mph. Chance of precipitation is 30%."
+          "detailedForecast": "A chance of showers and thunderstorms before 10pm, then a chance of showers and thunderstorms. Partly cloudy, with a low around 74. Heat index values as high as 101. North northeast wind around 5 mph. Chance of precipitation is 30%."
         },
         {
           "number": 2,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Sunny, with a high near 101."
         }
       ],
-      "updated": "2026-08-16T23:32:55.753725+00:00",
+      "updated": "2026-08-17T01:53:28.670540+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,25 +1224,25 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-16T18:00:00-05:00",
-        "endTime": "2026-08-16T19:00:00-05:00",
+        "startTime": "2026-08-16T20:00:00-05:00",
+        "endTime": "2026-08-16T21:00:00-05:00",
         "isDaytime": false,
-        "temperature": 101,
+        "temperature": 98,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
           "unitCode": "wmoUnit:percent",
-          "value": 20
+          "value": 23
         },
         "dewpoint": {
           "unitCode": "wmoUnit:degC",
-          "value": 18.333333333333332
+          "value": 18.88888888888889
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 31
+          "value": 35
         },
-        "windSpeed": "8 mph",
+        "windSpeed": "6 mph",
         "windDirection": "W",
         "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
         "shortForecast": "Slight Chance Showers And Thunderstorms",
@@ -1252,7 +1252,7 @@
         {
           "number": 1,
           "name": "Tonight",
-          "startTime": "2026-08-16T18:00:00-05:00",
+          "startTime": "2026-08-16T20:00:00-05:00",
           "endTime": "2026-08-17T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 76,
@@ -1262,11 +1262,11 @@
             "unitCode": "wmoUnit:percent",
             "value": 23
           },
-          "windSpeed": "5 to 8 mph",
+          "windSpeed": "6 mph",
           "windDirection": "N",
           "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=medium",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms before 1am. Partly cloudy, with a low around 76. Heat index values as high as 105. North wind 5 to 8 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of showers and thunderstorms before 1am. Partly cloudy, with a low around 76. Heat index values as high as 102. North wind around 6 mph. Chance of precipitation is 20%."
         },
         {
           "number": 2,
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Sunny, with a high near 100."
         }
       ],
-      "updated": "2026-08-16T23:32:55.753725+00:00",
+      "updated": "2026-08-17T01:53:28.670540+00:00",
       "stale": false
     }
   }
