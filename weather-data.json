@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-22T07:44:00.325752+00:00",
-  "lastAttemptAt": "2026-08-22T07:44:00.325752+00:00",
+  "generatedAt": "2026-08-22T08:45:43.761344+00:00",
+  "lastAttemptAt": "2026-08-22T08:45:43.761344+00:00",
   "status": "ok",
   "locations": {
     "okmulgee, ok": {
@@ -12,10 +12,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-22T02:00:00-05:00",
-        "endTime": "2026-08-22T03:00:00-05:00",
+        "startTime": "2026-08-22T03:00:00-05:00",
+        "endTime": "2026-08-22T04:00:00-05:00",
         "isDaytime": false,
-        "temperature": 76,
+        "temperature": 75,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -28,7 +28,7 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 87
+          "value": 88
         },
         "windSpeed": "0 mph",
         "windDirection": "",
@@ -40,7 +40,7 @@
         {
           "number": 1,
           "name": "Overnight",
-          "startTime": "2026-08-22T02:00:00-05:00",
+          "startTime": "2026-08-22T03:00:00-05:00",
           "endTime": "2026-08-22T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 73,
@@ -54,7 +54,7 @@
           "windDirection": "",
           "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=medium",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms. Mostly clear, with a low around 73. South wind around 0 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of showers and thunderstorms. Partly cloudy, with a low around 73. Southeast wind around 0 mph. Chance of precipitation is 20%."
         },
         {
           "number": 2,
@@ -304,7 +304,7 @@
           "detailedForecast": "Mostly sunny, with a high near 101. Southeast wind 0 to 5 mph."
         }
       ],
-      "updated": "2026-08-22T07:44:00.325752+00:00",
+      "updated": "2026-08-22T08:45:43.761344+00:00",
       "stale": false
     },
     "tulsa, ok": {
@@ -315,10 +315,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-22T02:00:00-05:00",
-        "endTime": "2026-08-22T03:00:00-05:00",
+        "startTime": "2026-08-22T03:00:00-05:00",
+        "endTime": "2026-08-22T04:00:00-05:00",
         "isDaytime": false,
-        "temperature": 81,
+        "temperature": 80,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -331,7 +331,7 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 72
+          "value": 75
         },
         "windSpeed": "0 mph",
         "windDirection": "",
@@ -343,7 +343,7 @@
         {
           "number": 1,
           "name": "Overnight",
-          "startTime": "2026-08-22T02:00:00-05:00",
+          "startTime": "2026-08-22T03:00:00-05:00",
           "endTime": "2026-08-22T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 75,
@@ -357,7 +357,7 @@
           "windDirection": "",
           "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=medium",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms. Partly cloudy, with a low around 75. South wind around 0 mph. Chance of precipitation is 20%."
+          "detailedForecast": "A slight chance of showers and thunderstorms. Mostly clear, with a low around 75. South wind around 0 mph. Chance of precipitation is 20%."
         },
         {
           "number": 2,
@@ -607,7 +607,7 @@
           "detailedForecast": "Mostly sunny, with a high near 100. Southeast wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-22T07:44:00.325752+00:00",
+      "updated": "2026-08-22T08:45:43.761344+00:00",
       "stale": false
     },
     "bixby, ok": {
@@ -618,10 +618,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-22T02:00:00-05:00",
-        "endTime": "2026-08-22T03:00:00-05:00",
+        "startTime": "2026-08-22T03:00:00-05:00",
+        "endTime": "2026-08-22T04:00:00-05:00",
         "isDaytime": false,
-        "temperature": 77,
+        "temperature": 76,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -634,7 +634,7 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 85
+          "value": 90
         },
         "windSpeed": "0 mph",
         "windDirection": "",
@@ -646,7 +646,7 @@
         {
           "number": 1,
           "name": "Overnight",
-          "startTime": "2026-08-22T02:00:00-05:00",
+          "startTime": "2026-08-22T03:00:00-05:00",
           "endTime": "2026-08-22T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 74,
@@ -910,7 +910,7 @@
           "detailedForecast": "Mostly sunny, with a high near 100. South wind 5 to 10 mph."
         }
       ],
-      "updated": "2026-08-22T07:44:00.325752+00:00",
+      "updated": "2026-08-22T08:45:43.761344+00:00",
       "stale": false
     },
     "stillwater, ok": {
@@ -921,10 +921,10 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-22T02:00:00-05:00",
-        "endTime": "2026-08-22T03:00:00-05:00",
+        "startTime": "2026-08-22T03:00:00-05:00",
+        "endTime": "2026-08-22T04:00:00-05:00",
         "isDaytime": false,
-        "temperature": 78,
+        "temperature": 77,
         "temperatureUnit": "F",
         "temperatureTrend": null,
         "probabilityOfPrecipitation": {
@@ -937,10 +937,10 @@
         },
         "relativeHumidity": {
           "unitCode": "wmoUnit:percent",
-          "value": 74
+          "value": 76
         },
         "windSpeed": "3 mph",
-        "windDirection": "SE",
+        "windDirection": "SSE",
         "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=small",
         "shortForecast": "Slight Chance Showers And Thunderstorms",
         "detailedForecast": ""
@@ -949,7 +949,7 @@
         {
           "number": 1,
           "name": "Overnight",
-          "startTime": "2026-08-22T02:00:00-05:00",
+          "startTime": "2026-08-22T03:00:00-05:00",
           "endTime": "2026-08-22T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 75,
@@ -960,10 +960,10 @@
             "value": 27
           },
           "windSpeed": "5 mph",
-          "windDirection": "SE",
+          "windDirection": "SSE",
           "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30?size=medium",
           "shortForecast": "Slight Chance Showers And Thunderstorms",
-          "detailedForecast": "A slight chance of showers and thunderstorms before 4am, then a chance of showers and thunderstorms. Partly cloudy, with a low around 75. Southeast wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+          "detailedForecast": "A slight chance of showers and thunderstorms before 4am, then a chance of showers and thunderstorms. Partly cloudy, with a low around 75. South southeast wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
         },
         {
           "number": 2,
@@ -1213,7 +1213,7 @@
           "detailedForecast": "Mostly sunny, with a high near 101."
         }
       ],
-      "updated": "2026-08-22T07:44:00.325752+00:00",
+      "updated": "2026-08-22T08:45:43.761344+00:00",
       "stale": false
     },
     "oklahoma city, ok": {
@@ -1224,8 +1224,8 @@
       "current": {
         "number": 1,
         "name": "",
-        "startTime": "2026-08-22T02:00:00-05:00",
-        "endTime": "2026-08-22T03:00:00-05:00",
+        "startTime": "2026-08-22T03:00:00-05:00",
+        "endTime": "2026-08-22T04:00:00-05:00",
         "isDaytime": false,
         "temperature": 81,
         "temperatureUnit": "F",
@@ -1252,7 +1252,7 @@
         {
           "number": 1,
           "name": "Overnight",
-          "startTime": "2026-08-22T02:00:00-05:00",
+          "startTime": "2026-08-22T03:00:00-05:00",
           "endTime": "2026-08-22T06:00:00-05:00",
           "isDaytime": false,
           "temperature": 80,
@@ -1516,7 +1516,7 @@
           "detailedForecast": "Sunny, with a high near 101."
         }
       ],
-      "updated": "2026-08-22T07:44:00.325752+00:00",
+      "updated": "2026-08-22T08:45:43.761344+00:00",
       "stale": false
     }
   }
